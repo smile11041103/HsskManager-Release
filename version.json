@@ -1,7 +1,7 @@
-{
-  "version": "1.0.2",
-  "url": "https://github.com/smile11041103/HsskManager-Release/releases/download/v1.0.2/HsskManager_Setup_1.0.2.exe",
-  "sha256": "A34258C023BD0C553A7FECF7550BFDFA8C49F949543529B6BF1BEB995A5F03BA",
-  "mandatory": false,
-  "notes": "Phiên bản kiểm tra hệ thống cập nhật tự động HsskManager."
+﻿{
+    "version":  "1.0.4",
+    "url":  "https://github.com/smile11041103/HsskManager-Release/releases/download/v1.0.4/HsskManager_Setup_1.0.4.exe",
+    "sha256":  "E09F0387783101C1C52F9CDE7D5FBA081A5823F82C3389BCDA44540C08F33FF7",
+    "mandatory":  false,
+    "notes":  "HsskManager 1.0.4"
 }
