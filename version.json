@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
-  "url": "",
+  "url": "https://example.com/HsskManager_Setup_1.0.1.exe",
   "sha256": "",
   "mandatory": false,
-  "notes": "Phiên bản phát hành đầu tiên của HsskManager."
+  "notes": "TEST phát hiện phiên bản 1.0.1."
 }
