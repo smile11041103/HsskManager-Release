@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
-  "url": "https://example.com/HsskManager_Setup_1.0.1.exe",
-  "sha256": "",
+  "url": "https://github.com/smile11041103/HsskManager-Release/releases/download/v1.0.1/HsskManager_Setup_1.0.1.exe",
+  "sha256": "AF6FAFFC13A139F8E4E1D5D5115CF3AF18F72F90DCC3BF537BBC91990EAC3940",
   "mandatory": false,
-  "notes": "TEST phát hiện phiên bản 1.0.1."
+  "notes": "Bổ sung hệ thống tự động cập nhật HsskManager."
 }
