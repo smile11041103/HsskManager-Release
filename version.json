@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.8",
-    "url":  "https://github.com/smile11041103/HsskManager-Release/releases/download/v1.1.8/HsskManager_Setup_1.1.8.exe",
-    "sha256":  "992ABFBA9E8FF4BE8CF1B3A028D5CE18DF915872FAAAE135B08832A327C25FCF",
-    "size":  59915981,
+    "version":  "1.1.9",
+    "url":  "https://github.com/smile11041103/HsskManager-Release/releases/download/v1.1.9/HsskManager_Setup_1.1.9.exe",
+    "sha256":  "C9A20C30CA7CDA51B5D374A2B053F638B2AB5EC5915D2509D51ECF0AE471F16A",
+    "size":  59908422,
     "mandatory":  false,
-    "notes":  "HsskManager 1.1.8"
+    "notes":  "HsskManager 1.1.9"
 }
